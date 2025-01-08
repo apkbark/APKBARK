@@ -1,4 +1,4 @@
-# APKLUB-Extension-Code
+# APKBARK-Extension-Code
 
 Automatically close stale Issues and Pull Requests that tend to accumulate during a project.
 
