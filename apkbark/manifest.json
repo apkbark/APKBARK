@@ -1,0 +1,14 @@
+{
+   "browser_action": {
+      "default_icon": "main/icon_128.png",
+      "default_popup": "main/popup.html",
+	  "default_title": "APKLUB"
+   },
+   "description": "Find Out your Favorite Android App and Games.",
+   "icons": {
+      "128": "main/icon_128.png"
+   },
+   "name": "APKLUB",
+   "version": "1.0.0",
+   "manifest_version": 2
+}
